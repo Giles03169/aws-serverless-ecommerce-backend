@@ -1,0 +1,8 @@
+{
+  "resource": "/products",
+  "httpMethod": "GET",
+  "headers": {},
+  "queryStringParameters": null,
+  "body": null,
+  "isBase64Encoded": false
+}
